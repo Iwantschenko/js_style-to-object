@@ -4,10 +4,7 @@
  * @param {string} sourceString
  *
  * @return {object}
-  1.Розідялю на classLine -> строки з даними 1 класу
-  2.Видаляю бокові space
-  3.Перевірка на пусті classLine
-  4.Закидаю в об'єкт поле + значення (видаляю для них space якщо залишились)
+
 */
 
 function convertToObject(sourceString) {
